@@ -1,5 +1,6 @@
 # Kaggle-Titanic-Challenge
-Applied Machine Learning Algorithm to the Kaggle "Titanic Survival Prediction Problem".
+Solution to Kaggle's Titanic problem.
 
-I implemented this using Decision Tree Classifier.
+Implementation of ML Algorithms using Decision tree Classification. The algorithm was implemented in a generic way, so it might work with any dataset. It's capable to deal with N/A data.
+
 It scored 0.7751 on kaggle
